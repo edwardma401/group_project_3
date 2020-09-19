@@ -12,8 +12,9 @@ Datasets to Be Used
 https://documenter.getpostman.com/view/10808728/SzS8rjbc
 
 Visualizations/Screenshots:
-Heat Map
-Sunburst Chart
-Scatter Plot-Linear Trend Line
+![Image of Heatmap](images/heatmap.png)
+![SunburstChart] (images/sunburst.png)
+![trendline] (images/trendline.png)
 
 Work Flow
+![workflow] )images/flowchart.png
