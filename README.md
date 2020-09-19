@@ -17,4 +17,4 @@ Visualizations/Screenshots:
 ![trendline] (images/trendline.png)
 
 Work Flow
-![workflow] )images/flowchart.png
+![workflow] (images/flowchart.png)
