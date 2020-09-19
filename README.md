@@ -13,8 +13,8 @@ Datasets to Be Used
 
 Visualizations/Screenshots:
 ![Image of Heatmap](images/heatmap.png)
-![SunburstChart] (sunburst.png)
-![trendline] (images/trendline.png)
+![SunburstChart](images/sunburst.png)
+![trendline](images/trendline.png)
 
 Work Flow
-![workflow] (images/flowchart.png)
+![workflow](images/flowchart.png)
